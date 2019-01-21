@@ -1,0 +1,7 @@
+*..
+*__pycache__
+*Procfile
+staticfiles
+migrations
+*static
+requirements.txt
