@@ -1,0 +1,30 @@
+ █ [ /home/harman/Desktop/Django_Projects/Blog_Application/django_project ] ls
+blog
+db.sqlite3
+django_project
+manage.py
+media
+Procfile
+requirements.txt
+staticfiles
+terminal.glue
+users
+
+█ [ /home/harman/Desktop/Django_Projects/Blog_Application/django_project ] ls
+blog
+db.sqlite3
+django_project
+manage.py
+media
+Procfile
+requirements.txt
+staticfiles
+terminal.glue
+users
+
+█ [ /home/harman/Desktop/Django_Projects/Blog_Application/django_project ] cd
+Please enter a path following the 'cd' command
+
+█ [ /home/harman/Desktop/Django_Projects/Blog_Application/django_project ] cd .gitattribute
+Directory path '.gitattribute' does not exist
+
